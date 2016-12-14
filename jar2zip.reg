@@ -1,0 +1,63 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jar]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jar\CLSID]
+@="{E88DCCE0-B7B3-11d1-A9F0-00AA0060FA31}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar]
+"Content Type"="application/x-zip-compressed"
+"_PerceivedType"="compressed"
+@="CompressedFolder"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\CompressedFolder]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\CompressedFolder\ShellNew]
+"Data"=hex:50,4b,05,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ItemName"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,7a,00,69,00,70,00,66,00,6c,00,64,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  2d,00,31,00,30,00,31,00,39,00,34,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\OpenWithProgids]
+"CompressedFolder"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\PersistentHandler]
+@="{3B224B11-9363-407e-850F-C9E1FFACD8FB}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\ShellNew]
+"FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.jar]
+"Content Type"="application/x-zip-compressed"
+"_PerceivedType"="compressed"
+@="CompressedFolder"
+
+[HKEY_CLASSES_ROOT\.jar\CompressedFolder]
+
+[HKEY_CLASSES_ROOT\.jar\CompressedFolder\ShellNew]
+"Data"=hex:50,4b,05,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ItemName"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,7a,00,69,00,70,00,66,00,6c,00,64,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  2d,00,31,00,30,00,31,00,39,00,34,00,00,00
+
+[HKEY_CLASSES_ROOT\.jar\OpenWithProgids]
+"CompressedFolder"=""
+
+[HKEY_CLASSES_ROOT\.jar\PersistentHandler]
+@="{3B224B11-9363-407e-850F-C9E1FFACD8FB}"
+
+[HKEY_CLASSES_ROOT\.jar\ShellNew]
+"FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jar]
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jar\CLSID]
+@="{E88DCCE0-B7B3-11d1-A9F0-00AA0060FA31}"
