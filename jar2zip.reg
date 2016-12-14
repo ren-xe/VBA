@@ -5,8 +5,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jar\CLSID]
 @="{E88DCCE0-B7B3-11d1-A9F0-00AA0060FA31}"
 
-Windows Registry Editor Version 5.00
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar]
 "Content Type"="application/x-zip-compressed"
 "_PerceivedType"="compressed"
@@ -30,8 +28,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\ShellNew]
 "FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
 
-Windows Registry Editor Version 5.00
-
 [HKEY_CLASSES_ROOT\.jar]
 "Content Type"="application/x-zip-compressed"
 "_PerceivedType"="compressed"
@@ -54,8 +50,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\.jar\ShellNew]
 "FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
-
-Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.jar]
 
