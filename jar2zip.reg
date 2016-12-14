@@ -25,9 +25,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\PersistentHandler]
 @="{3B224B11-9363-407e-850F-C9E1FFACD8FB}"
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.jar\ShellNew]
-"FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
-
 [HKEY_CLASSES_ROOT\.jar]
 "Content Type"="application/x-zip-compressed"
 "_PerceivedType"="compressed"
@@ -47,9 +44,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\.jar\PersistentHandler]
 @="{3B224B11-9363-407e-850F-C9E1FFACD8FB}"
-
-[HKEY_CLASSES_ROOT\.jar\ShellNew]
-"FileName"="C:\\Program Files\\ESTsoft\\AlZip\\NewZip.dat"
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.jar]
 
