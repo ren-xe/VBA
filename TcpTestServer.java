@@ -13,8 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * TCPテストサーバ。
- * @author M.Wada
- * @since 1.0
+  * @since 1.0
  */
 public class TcpTestServer extends Thread implements Closeable {
 
@@ -206,7 +205,6 @@ public class TcpTestServer extends Thread implements Closeable {
 
     /**
      * クライアントとの1コネクション単位の処理を担うスレッドクラス
-     * @author M.Wada
      * @since 1.0
      */
     private class TcpTestServerThread extends Thread {
